@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/joshianuj/webpack-starter/issues"
   },
-  "homepage": "https://github.com/joshianuj/webpack-starter#readme"
+  "homepage": "https://github.com/joshianuj/webpack-starter#readme",
+  "devDependencies": {
+    "webpack": "^1.13.1"
+  }
 }
